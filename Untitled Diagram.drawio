@@ -1,1 +1,358 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T06:30:00.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" version="14.9.3" etag="h1NmoiECzeRz1-8ZmmiQ" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-30T08:38:34.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="6zvkpJChXK042bWbwXcc" version="14.9.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="GEChJKNrhiZ9rOkk8rkE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;b&gt;Datos sobre biodiversidad&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-1" target="GEChJKNrhiZ9rOkk8rkE-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-1" target="GEChJKNrhiZ9rOkk8rkE-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="180" />
+              <mxPoint x="474" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-1" target="GEChJKNrhiZ9rOkk8rkE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-1" value="&lt;b&gt;Estructuración&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=none;endFill=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="GEChJKNrhiZ9rOkk8rkE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="110" as="sourcePoint" />
+            <mxPoint x="340" y="270" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-3" value="&lt;b&gt;Algunas fuentes:&lt;/b&gt; Colecciones biológicas, inventarios, monitoreos, ciencia participativa, entre otros." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="40" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-6" target="GEChJKNrhiZ9rOkk8rkE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-6" value="&lt;b&gt;Registros biológicos&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-7" target="GEChJKNrhiZ9rOkk8rkE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-7" value="&lt;b&gt;Eventos de muestreo&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-10" target="GEChJKNrhiZ9rOkk8rkE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-10" target="GEChJKNrhiZ9rOkk8rkE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-10" value="&lt;b&gt;Listas de especies&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-13" target="GEChJKNrhiZ9rOkk8rkE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-13" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;¿Qué?&lt;/font&gt; y ¿Quién?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-15" target="GEChJKNrhiZ9rOkk8rkE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-15" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;¿Cómo?&lt;/font&gt; &lt;font color=&quot;#990099&quot;&gt;¿Cuándo?&lt;/font&gt; y ¿Dónde?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="434" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-17" target="GEChJKNrhiZ9rOkk8rkE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-17" value="&lt;b&gt;¿Qué? y ¿Dónde?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-19" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;Especímenes preservados y vivos&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;Organismos no cuantificables como individuos.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;Evidencia directa o indirecta.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;Datos moleculares asociados o como evidencia.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Organizaciones e investigadores.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="400" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-21" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;Metodologías replicables&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;Mediciones bióticas y abióticas.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000099&quot;&gt;Documentación de ausencias.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#990099&quot;&gt;Registro de fecha&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Datos geográficos detallados a nivel de evento y registro.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="391.5" y="400" width="165" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-24" value="&lt;ul&gt;&lt;li&gt;Nombres científicos o taxones agrupados por grupo taxonómico, distribución geográfica o temática.&lt;/li&gt;&lt;li&gt;Nombres o taxones únicos&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="400" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-26" target="GEChJKNrhiZ9rOkk8rkE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-26" value="Pueden incluir también" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="885" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-28" value="&lt;ul&gt;&lt;li&gt;Nombres comunes&lt;/li&gt;&lt;li&gt;Referencias de literatura&lt;/li&gt;&lt;li&gt;Especímenes de referencia en colecciones biológicas&lt;/li&gt;&lt;li&gt;Estados de amenaza.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="300" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-30" target="GEChJKNrhiZ9rOkk8rkE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-30" value="&lt;b&gt;Información sobre biodiversidad&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-33" value="Resultado de un conjunto de datos procesados que constituyen un mensaje. (Cifras, mapas, vídeos, fotos, anotaciones, entre otros)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1210" y="160" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-36" target="GEChJKNrhiZ9rOkk8rkE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-36" target="GEChJKNrhiZ9rOkk8rkE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-36" value="&lt;b&gt;Tipos de información&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1420" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-37" target="GEChJKNrhiZ9rOkk8rkE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-37" value="&lt;b&gt;Metadatos&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1620" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-39" target="GEChJKNrhiZ9rOkk8rkE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-39" target="GEChJKNrhiZ9rOkk8rkE-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1570" y="208" />
+              <mxPoint x="1570" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-39" value="&lt;b&gt;Fichas de especies&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1420" y="160" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-41" value="&lt;b&gt;Algunas fuentes: &lt;/b&gt;Trabajo de campo, informes técnicos, libros rojos, literatura científica, entre otros." style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1420" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-43" value="Contexto de los datos e información" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1820" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-45" target="GEChJKNrhiZ9rOkk8rkE-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-45" value="Información estructurada e integración de recursos asociados como:" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1620" y="175" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-47" value="&lt;ul&gt;&lt;li&gt;Taxonomía&lt;/li&gt;&lt;li&gt;Nombres comunes&lt;/li&gt;&lt;li&gt;Hábitat y distribución&lt;/li&gt;&lt;li&gt;Historia natural&lt;/li&gt;&lt;li&gt;Amenazas&lt;/li&gt;&lt;li&gt;Uso y conservación&lt;/li&gt;&lt;li&gt;Mapas, fotografías y videos.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1835" y="177.5" width="235" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-49" target="GEChJKNrhiZ9rOkk8rkE-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-49" target="GEChJKNrhiZ9rOkk8rkE-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-49" target="GEChJKNrhiZ9rOkk8rkE-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-49" value="&lt;b&gt;Publicación de datos&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-54" value="Publicación de datos e información a través de organizaciones." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-56" target="GEChJKNrhiZ9rOkk8rkE-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.408;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-56" target="GEChJKNrhiZ9rOkk8rkE-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-56" target="GEChJKNrhiZ9rOkk8rkE-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-56" value="&lt;b&gt;¿Qué tipos de datos o información deseo publicar?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="670" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-60" target="GEChJKNrhiZ9rOkk8rkE-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-60" value="&lt;b&gt;Registros biológicos, Eventos de muestreo y listas de especies.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-63" target="GEChJKNrhiZ9rOkk8rkE-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-63" value="&lt;b&gt;Datos asociados a permisos de recolección&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-65" target="GEChJKNrhiZ9rOkk8rkE-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-65" value="&lt;b&gt;Fichas de especies&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-69" target="GEChJKNrhiZ9rOkk8rkE-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-69" value="&lt;b&gt;Ruta A (Voluntaria)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-71" target="GEChJKNrhiZ9rOkk8rkE-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-71" target="GEChJKNrhiZ9rOkk8rkE-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-71" value="&lt;b&gt;Ruta B (CR-SiB)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-73" target="GEChJKNrhiZ9rOkk8rkE-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-73" target="GEChJKNrhiZ9rOkk8rkE-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-73" value="&lt;b&gt;Ruta C (Fichas de especies)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-75" target="GEChJKNrhiZ9rOkk8rkE-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-75" target="GEChJKNrhiZ9rOkk8rkE-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="945" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-75" target="GEChJKNrhiZ9rOkk8rkE-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1302" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-75" value="&lt;b&gt;PASOS A SEGUIR&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="880" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-79" target="GEChJKNrhiZ9rOkk8rkE-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-79" value="1. Registrar la organización a través del equipo coordinador del SiB Colombia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1270" y="680" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-81" target="GEChJKNrhiZ9rOkk8rkE-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-81" value="2. Preparar los datos para la publicación, estructurados con el estándar Darwin Core (DwC)." style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1430" y="677.5" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-83" target="GEChJKNrhiZ9rOkk8rkE-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-83" value="3. Validar la calidad de los datos estandarizados, usando la herramienta GBIF Data Validator," style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1600" y="672.5" width="130" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-85" target="GEChJKNrhiZ9rOkk8rkE-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-85" value="4. Solicitar un acompañamiento para la publicación con el equipo coordinador a través del correo&amp;nbsp; sib@humboldt.org.co" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1780" y="670" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-87" target="GEChJKNrhiZ9rOkk8rkE-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-87" value="5. Iniciar el acompañamiento para la publicación y seleccionar el tipo de licencia CC." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1970" y="670" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-89" value="6. Publicación del conjunto de datos y asignación del identificador único digital (DOI)." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2150" y="670" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-92" target="GEChJKNrhiZ9rOkk8rkE-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-92" value="1. Registro del titular del permiso en línea" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1390" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-93" value="&lt;b&gt;Desventajas de esta ruta&lt;/b&gt;:&amp;nbsp;&lt;br&gt;&lt;ol&gt;&lt;li&gt;No cuentan con un DOI.&lt;/li&gt;&lt;li&gt;No se presentan en los portales del SiB y GBIF.&lt;/li&gt;&lt;li&gt;No son publicados en el reporte mensual del SiB.&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="895" y="1020" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-95" target="GEChJKNrhiZ9rOkk8rkE-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-95" value="2. Preparar los datos para la publicación, estructurados con el estándar Darwin Core (DwC)." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1550" y="911.25" width="130" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-97" target="GEChJKNrhiZ9rOkk8rkE-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-97" value="3. Validar el conjunto de datos estandarizados, usando el procesador de datos CR-SiB." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1730" y="905" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-99" target="GEChJKNrhiZ9rOkk8rkE-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-99" value="4. Publicar el conjunto de datos en la plataforma CR-SiB y documentar los metadatos." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1920" y="905" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-101" value="5. Descargar el certificado de publicación" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2140" y="900" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-103" value="Información sintetizada, confiable y robusta sobre el conocimiento existente de nuestras especies.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="930" y="1280" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-106" target="GEChJKNrhiZ9rOkk8rkE-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-106" value="&amp;nbsp;1. Registrar la organización a través del equipo coordinador del SiB Colombia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1250" y="1160" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-107" target="GEChJKNrhiZ9rOkk8rkE-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-107" value="2. Preparar los contenidos de las fichas en un documento Word y utilizando el estándar Plinian Core (PliC)." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="1160" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-109" target="GEChJKNrhiZ9rOkk8rkE-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-109" value="&amp;nbsp;3. Solicitar un acompañamiento para la publicación con el equipo coordinador a través del correo&amp;nbsp; sib@humboldt.org.co" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1620" y="1160" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-111" target="GEChJKNrhiZ9rOkk8rkE-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-111" value="&lt;span&gt;4. Iniciar el acompañamiento para la publicación y seleccionar el tipo de licencia CC.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1820" y="1160" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-113" value="5. Publicación del conjunto de fichas." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2040" y="1160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GEChJKNrhiZ9rOkk8rkE-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-117" value="¿Para qué?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GEChJKNrhiZ9rOkk8rkE-119" value="&lt;ul&gt;&lt;li&gt;Contribución al conocimiento global sobre la biodiversidad&lt;/li&gt;&lt;li&gt;Generar nuevas oportunidades de colaboración&lt;/li&gt;&lt;li&gt;Visibilidad y reconocimiento&lt;/li&gt;&lt;li&gt;Construir modelos y evaluaciones de la biodiversidad.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="930" width="350" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
